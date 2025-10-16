@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": "Queijo Mussarela Tipo 1",
+    "tipo": "Fresco Semi-Curado",
+    "preco": 22.5,
+    "peso": 550,
+    "origem": "Brasil",
+    "dataCadastro": "2023-01-15T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "nome": "Queijo Cheddar",
+    "tipo": "Curado",
+    "preco": 35,
+    "peso": 300,
+    "origem": "Inglaterra",
+    "dataCadastro": "2023-02-20T14:30:00Z"
+  },
+  {
+    "id": 4,
+    "nome": "Queijo Brie",
+    "tipo": "Fresco",
+    "preco": 28.9,
+    "peso": 200,
+    "origem": "França",
+    "dataCadastro": "2023-04-05T11:45:00Z"
+  },
+  {
+    "id": 5,
+    "nome": "Camembert",
+    "tipo": "Cremoso",
+    "preco": 160.4,
+    "peso": 1000,
+    "origem": "Não especificada",
+    "dataCadastro": "2025-10-16T15:32:21.689Z"
+  }
+]
